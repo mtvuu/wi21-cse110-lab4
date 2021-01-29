@@ -1,5 +1,7 @@
 ## Part 3
+#### Breakpoints
 ![Image](https://raw.githubusercontent.com/mtvuu/wi21-cse110-lab4/main/part3/Breakpoints.PNG)
+#### Watch Expressions
 ![Image](https://raw.githubusercontent.com/mtvuu/wi21-cse110-lab4/main/part3/Watch.PNG)
 
 #### What was the bug?

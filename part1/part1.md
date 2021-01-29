@@ -49,9 +49,9 @@ determine if the two are equal.
 17. "How are you?" is printed because (2==true) is false since true gets converted to 1 and 2 != 1. Then it checks
 if 2 is true. This is done by converting the 2 into a boolean which would return true since 2 is not 0. So it will 
 print out 'How are you?'.
-18. In part1-question18.js
+18. In [part1-question18.js](https://github.com/mtvuu/wi21-cse110-lab4/blob/main/part1/part1-question18.js)
 19. The result will be [6, 8, 10]. Each of the elements in "array" is then inputted into the "callback" which takes 
 a function and doubles it. The "callback" is doSomething which takes the original element, adds 2, then calls the 
 function that doubles it. This result is added to newArr.
-20. In part1-question20.js
+20. In [part1-question20.js](https://github.com/mtvuu/wi21-cse110-lab4/blob/main/part1/part1-question20.js)
 21. 1 4 3 2
